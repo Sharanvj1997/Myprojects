@@ -1,0 +1,195 @@
+#topbar{
+    background-color: black;
+    height: 10px;
+    width: 100%;
+}
+body
+{
+ background-color: white;   
+}
+#container
+{
+
+
+width: 70%;
+margin:0px auto;
+}
+#header
+{
+height: 140px;
+background-color: aliceblue;
+}
+#header img
+{
+height: 140px; 
+}
+#header ul
+{
+float:right;
+margin-top: 50px;
+
+}
+#header ul li
+{
+display: inline;
+margin-right: 20px;
+}
+#header ul li a
+{
+color:grey ;
+text-decoration: none; 
+
+}
+#banner img
+{
+width: 100%;
+padding-bottom: 20px;
+
+}
+#content1
+{
+width: 32%;
+height: 350px;
+background-color: #f86900;
+float: left;
+margin-right: 2%;
+}
+#content2
+{
+width: 32%;
+height: 350px;
+background-color: #ffc502;
+float: left;
+}
+#content3
+{
+width: 32%;
+height: 350px;
+background-color: #a2c511;
+float: right;
+}
+.heading
+{
+color: white;
+margin-left: 20px;
+font-size: 28px;
+margin-top: 10px;
+}
+.para1
+{
+color: white;
+margin-left: 20px;
+
+}
+.para2
+{
+color: white;
+margin-left: 20px;
+
+}
+.para3
+{
+color: white;
+margin-left: 20px;
+
+}
+.program
+{
+color: white;
+margin-left: 20px;
+font-size: 20px;
+margin-top: 30px;
+}
+.python
+{
+color: white;
+margin-left: 20px;
+font-size: 20px;
+}
+.javascript
+{
+color: white;
+margin-left: 20px;
+font-size: 20px;
+margin-top: 5px;
+}
+#bottom1
+{
+width: 60%;
+
+
+float:left;
+margin-top: 15px;
+}
+#bottom2
+{
+width: 28%;
+
+
+float:right;
+margin-right: 197px;
+margin-top: 15px;
+}
+#bottom1 h2 
+{
+color: black;
+margin-left: 20px;
+margin-right: 8px;
+}
+#bottom1 p 
+{
+color: black;
+margin-left: 20px;
+margin-right: 8px;
+}
+#bottom1 a
+{
+margin-left: 22px;
+color:orange;
+text-decoration: none;    
+}
+#bottom2 h2 
+{
+color: black;
+margin-left: 20px;
+margin-right: 8px;
+}
+#bottom2 a
+{
+margin-left: 22px;
+color:orange;
+text-decoration: none;    
+}
+#footer
+{
+width: 100%;
+height: 60px;
+background-color: black;
+clear:both;
+}
+
+#footer ul
+{
+float:left;
+margin-top: 25px;
+
+}
+#footer ul li
+{
+display: inline;
+margin-right: 25px;
+}
+#footer ul li a
+{
+color:grey ;
+text-decoration: none; 
+
+}
+#footer p
+{
+color: white;
+float:right;
+margin-right: 20px;
+}
+
+
